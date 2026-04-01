@@ -1,0 +1,36 @@
+{
+    "todos": [
+        {
+            "task": "转专业到软件工程",
+            "completed": false
+        },
+        {
+            "task": "复习高数（一）上",
+            "completed": true
+        },
+        {
+            "task": "复习c语言",
+            "completed": true
+        },
+        {
+            "task": "学习机器学习",
+            "completed": false
+        },
+        {
+            "task": "学习深度学习",
+            "completed": false
+        },
+        {
+            "task": "备考雅思",
+            "completed": false
+        },
+        {
+            "task": "联系导师进组系统学习科研",
+            "completed": false
+        },
+        {
+            "task": "产出成果and保持高绩点",
+            "completed": false
+        }
+    ]
+}
